@@ -10,7 +10,7 @@ Projeto de monitoramento espacial desenvolvido com:
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
 - API REST de satélites
 - Dashboard espacial
@@ -21,7 +21,7 @@ Projeto de monitoramento espacial desenvolvido com:
 
 ---
 
-# 📂 Estrutura
+# Estrutura
 
 ```bash
 satellite-monitor/
@@ -35,7 +35,7 @@ satellite-monitor/
 
 
 
-## 🌌 Projeto em evolução
+## Projeto em evolução
 
 Este sistema faz monitoramento visual de satélites
 com interface interativa e dashboard espacial.
