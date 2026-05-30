@@ -44,5 +44,5 @@ Futuras melhorias a ser alcançadas:
 - Globo 3D
 - API real da NASA
 - Rastreamento orbital
-- Dados em tempo real
+- Dados em tempo real=
 
